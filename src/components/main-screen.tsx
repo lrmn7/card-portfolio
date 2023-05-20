@@ -38,7 +38,7 @@ const MainScreen = () => {
 				textTransform='capitalize'
 				noOfLines={2}
 			>
-				Taing Menghai
+				L RMN
 			</Heading>
 			<Text
 				color={'gray.500'}
@@ -47,7 +47,7 @@ const MainScreen = () => {
 				_groupHover={{ display: 'none' }}
 				display='block'
 			>
-				CS Student
+				Nobody
 			</Text>
 			<Fade in>
 				<Text
